@@ -3,7 +3,7 @@ Welcome to my Coding Projects repository! This collection showcases various prog
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Projects](#project)
+2. [Projects](#projects)
 3. [Skill Highlight](#skill_highlight)
 4. [Getting Started](#getting_started)
 5. [Future Work](#future_work)
