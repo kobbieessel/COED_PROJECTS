@@ -15,6 +15,6 @@ This repository includes projects in a range of areas, from basic Python applica
 ## Projects
 1. [Guessing Game]()
 A fun, interactive Python game where players attempt to guess a randomly generated number between 1 and 10. Features include:
-- Score tracking
-- Attempts counter with emoji feedback
-- Input validation for a smooth user experience
+  - Score tracking
+  - Attempts counter with emoji feedback
+  - Input validation for a smooth user experience
