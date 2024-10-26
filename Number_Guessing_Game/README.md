@@ -20,7 +20,7 @@ Welcome to the **Guessing Game**! This is a fun and simple Python game where the
 5. After each game, you can choose to **play again** or **end the game**.
 
 ## Requirements 🛠️
-- Python 3.x
+- Python 3.12.4
 - `emoji` library (install using `pip`):
   ```bash
   pip install emoji
