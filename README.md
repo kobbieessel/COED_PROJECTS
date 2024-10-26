@@ -13,7 +13,7 @@ ________________________________________________________________________________
 This repository includes projects in a range of areas, from basic Python applications to more advanced IoT systems and robotics prototypes. Below, you'll find a breakdown of each project, a description of its purpose, and instructions for getting it running on your machine.
 
 ## Projects
-### 1. [Guessing Game](https://github.com/kobbieessel/COED_PROJECTS/tree/main/Number_Guessing_Game)
+### 1. [Number Guessing Game](https://github.com/kobbieessel/COED_PROJECTS/tree/main/Number_Guessing_Game)
 A fun, interactive Python game where players attempt to guess a randomly generated number between 1 and 10. Features include:
   - Score tracking
   - Attempts counter with emoji feedback
