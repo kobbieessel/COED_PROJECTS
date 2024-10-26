@@ -18,3 +18,5 @@ A fun, interactive Python game where players attempt to guess a randomly generat
   - Score tracking
   - Attempts counter with emoji feedback
   - Input validation for a smooth user experience
+
+
